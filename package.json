@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@reduxjs/toolkit": "^2.8.2",
-    "chartjs": "^0.3.24"
+    "@reduxjs/toolkit": "^2.8.2"
   }
 }
