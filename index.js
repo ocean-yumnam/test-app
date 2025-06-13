@@ -11,3 +11,4 @@ setInterval(() => {
 // Feat interval
 // Something something
 // app
+console.log("Hello, world! This is a test script.");
