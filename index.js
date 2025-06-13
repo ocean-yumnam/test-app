@@ -13,3 +13,4 @@ setInterval(() => {
 // app
 console.log("Hello, world! This is a test script.");
 console.log("This is an app");
+console.log("Index");
