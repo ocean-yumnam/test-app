@@ -8,3 +8,5 @@ console.log(add(1, 2));
 setInterval(() => {
   console.log(`Hello, ${name}! This is a test script.`);
 }, 1000);
+// Feat interval
+// Something something
